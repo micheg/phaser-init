@@ -11,3 +11,4 @@ unzip -d tmp compiler-20190121.zip
 cp ./tmp/closure-compiler-v20190121.jar ./bin
 rm -rf ./tmp
 rm -rf closure-compiler-v20190121.jar
+cp ./index.html ./src/
