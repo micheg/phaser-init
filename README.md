@@ -1,4 +1,4 @@
-# This repository contains minimal scripts for a generic phaser project.
+## This repository contains minimal scripts for a generic phaser project.
 
 ## Usage:
 
