@@ -4,7 +4,7 @@
 
 ### Usage:
 
-- fork this repo
+- download start.sh via raw
 - use init.sh
 
 ### Add src to git:
