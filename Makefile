@@ -22,7 +22,7 @@ $(JS_MIN_TARGET): $(JS_TARGETS)
 	$(dir_guard)
 	@$(JS_COMP) $(JS_COMP_FLAGS) --js_output_file $@ $^
 	cp -f $(root_dir)/lib/phaser-arcade-physics.min.js $(release_dir)/phaser.min.js
-	cp -f $(root_dir)/release.html $(release_dir)/index.html
+	cp -f release.html $(release_dir)/index.html
 
 clean:
 	$(RM) -rf $(release_dir)
